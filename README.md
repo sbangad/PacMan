@@ -30,11 +30,11 @@ Our Mini Project is developed on Python and we used the following technologies:
 This Mini Project was a Group Project assigned to us by our Faculty as a Term Work for our course - Computer Graphics and Visualisation in our SEM 5 of Computer Engineering at K.J. Somaiya College of Engineering.
 <br />
 We would like to thank [Sir Vaibhav Vasani](https://www.linkedin.com/in/vaibhav-vasani-460a4162/), our Mentor and Faculty-In-Charge for this course who is very motivating and has helped us whenever needed. 
-#### Team:
-* [Sarvesh Bangad](https://www.linkedin.com/in/sarvesh-bangad-450816193/)
-* [Saarah Khan](https://www.linkedin.com/in/saarah-khan-79476717b/)
-* [Anjali Gohil](https://www.linkedin.com/in/anjaligohil19/)
-* [Jugal Chauhan](https://www.linkedin.com/in/jugal-chauhan-8422b9157/)
+#### Team Members and their Roll Numbers:
+* [Sarvesh Bangad](https://www.linkedin.com/in/sarvesh-bangad-450816193/) 1811...
+* [Saarah Khan](https://www.linkedin.com/in/saarah-khan-79476717b/) 1811088
+* [Anjali Gohil](https://www.linkedin.com/in/anjaligohil19/) 1811080
+* [Jugal Chauhan](https://www.linkedin.com/in/jugal-chauhan-8422b9157/) 1811071
 
 
 <!-- GETTING STARTED -->
