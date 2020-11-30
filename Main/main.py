@@ -123,6 +123,7 @@ class Main:
             elif isinstance(object, pacman.PacMan):
                 self.pacman.was_eaten = True
                 print("    GHOST CATCHED PACMAN     ")
+                exit()
 
     def pacman_move(self):
         """"""
