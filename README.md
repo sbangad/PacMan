@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sbangad/PacMan">
-    <img src="Images/logo.png" alt="Logo">
+    <img src="logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Pac Man Game written in OpenGL Library</h3>
@@ -12,7 +12,7 @@
 ## About The Project
 <p align="center">
     <a href="https://github.com/sbangad/PacMan">
-    <img src="Images/pacman.png">
+    <img src="pacman.png">
 </p>
 <p align="center">
 This Pac Man Game is built using OpenGL and it is a Mini Project for our College Curriculum Course - Computer Graphics and Visualisation.
