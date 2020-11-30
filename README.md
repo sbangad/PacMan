@@ -24,6 +24,19 @@ Our Mini Project is developed on Python and we used the following technologies:
 * [Math Library](https://docs.python.org/3/library/math.html)
 * [Time Library](https://docs.python.org/3/library/time.html)
 
+
+<!-- Our Team -->
+## Our Team
+This Mini Project was a Group Project assigned to us by our Faculty as a Term Work for our course - Computer Graphics and Visualisation in our SEM 5 of Computer Engineering at K.J. Somaiya College of Engineering.
+<br />
+We would like to thank [Sir Vaibhav Vasani](https://www.linkedin.com/in/vaibhav-vasani-460a4162/), our Mentor and Faculty-In-Charge for this course who is very motivating and has helped us whenever needed. 
+#### Team:
+* [Sarvesh Bangad](https://www.linkedin.com/in/sarvesh-bangad-450816193/)
+* [Saarah Khan](https://www.linkedin.com/in/saarah-khan-79476717b/)
+* [Anjali Gohil](https://www.linkedin.com/in/anjaligohil19/)
+* [Jugal Chauhan](https://www.linkedin.com/in/jugal-chauhan-8422b9157/)
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -61,17 +74,6 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-
-<!-- Our Team -->
-## Our Team
-This Mini Project was a Group Project assigned to us by our Faculty as a Term Work for our course - Computer Graphics and Visualisation in our SEM 5 of Computer Engineering at K.J. Somaiya College of Engineering.
-<br />
-We would like to thank [Sir Vaibhav Vasani](https://www.linkedin.com/in/vaibhav-vasani-460a4162/), our Mentor and Faculty-In-Charge for this course who is very motivating and has helped us whenever needed. 
-#### Team:
-* [Sarvesh Bangad](https://www.linkedin.com/in/sarvesh-bangad-450816193/)
-* [Saarah Khan](https://www.linkedin.com/in/saarah-khan-79476717b/)
-* [Anjali Gohil](https://www.linkedin.com/in/anjaligohil19/)
-* [Jugal Chauhan](https://www.linkedin.com/in/jugal-chauhan-8422b9157/)
 
 <br />
 
